@@ -36,9 +36,7 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/lucasemanuelpm/lucasemanuelpm/output/snake.svg" alt="Snake animation" />
 
 ###
 
